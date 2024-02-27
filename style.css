@@ -1,0 +1,35 @@
+*{
+    background-color: bisque;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-style: oblique;
+    text-transform: capitalize;
+    text-align: center;
+}
+h1{
+    color: rgb(32, 30, 173);
+    font-style: italic;
+    background-color: rgb(193, 199, 80);
+}
+h2{
+    color: rgb(88, 174, 174);
+    text-transform: uppercase;
+    font-style:oblique;
+    font-weight: 700;
+    text-align: justify;
+    text-decoration-line: overline;
+}
+ul{
+    color: blueviolet;
+    text-decoration-line: underline;
+}
+ol{
+    color: brown;
+    text-decoration: underline;
+}
+b{
+    color: brown;
+    text-decoration: underline;
+}
